@@ -1,2 +1,2 @@
 # html-lessons
-I want to share my HTML notes here.
+I want to share lesson's code here.
